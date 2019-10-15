@@ -1,4 +1,5 @@
-* Learning git and github
 * Jogo da Velha
-* Project by: Paulo Andrade
+* Learning git and github
+* Text language: Brazilian portuguese
 * Programming Language: Python3
+* Project by: Paulo Andrade
